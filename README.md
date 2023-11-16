@@ -4,7 +4,7 @@ Este é um sistema simples de controle de atendimento presencial de clientes des
 
 ## Funcionalidades
 
-- **Cadastro de Clientes:** Permite cadastrar informações básicas dos clientes, como nome, telefone, e outras informações relevantes.
+- **Cadastro de Clientes:** Permite cadastrar informações básicas dos clientes, como nome, cpf, e outras informações relevantes.
 
 - **Controle de Atendimentos:** Registra os atendimentos realizados, associando-os aos clientes cadastrados. Cada atendimento é registrado com detalhes, como data, hora, e descrição do serviço prestado.
 
