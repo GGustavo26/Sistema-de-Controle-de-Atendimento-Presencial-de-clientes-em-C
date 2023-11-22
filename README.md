@@ -42,18 +42,16 @@ Este é um sistema simples de controle de atendimento presencial de clientes des
 
 ## Imagens em Funcionamento
 
-![](assets/screen_1.PNG)
+![](assets/screenshot_1.PNG)
 
-![](assets/screen_2.PNG)
+![](assets/screenshot_2.PNG)
 
-![](assets/screen_3.PNG)
+![](assets/screenshot_3.PNG)
 
-![](assets/screen_4.PNG)
+![](assets/screenshot_4.PNG)
 
-![](assets/screen_5.PNG)
+![](assets/screenshot_5.PNG)
 
-![](assets/screen_6.PNG)
+![](assets/screenshot_6.PNG)
 
-![](assets/screen_7.PNG)
-
-![](assets/screen_8.PNG)
+![](assets/screenshot_7.PNG)
