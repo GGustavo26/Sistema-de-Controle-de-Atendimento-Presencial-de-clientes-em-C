@@ -53,3 +53,7 @@ Este é um sistema simples de controle de atendimento presencial de clientes des
 ![](assets/screen_5.PNG)
 
 ![](assets/screen_6.PNG)
+
+![](assets/screen_7.PNG)
+
+![](assets/screen_8.PNG)
